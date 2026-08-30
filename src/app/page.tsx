@@ -2,6 +2,7 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import Creators from "@/components/Creators/Creators";
 import ImageMarquee from "@/components/ImageMarquee/ImageMarquee";
+import SpecialThanks from "@/components/Creators/SpecialThanks/SpecialThanks";
 
 export default function Home() {
     return (
@@ -66,6 +67,8 @@ export default function Home() {
                 <div className={styles.intro}>
                     <h2>The GG Team</h2>
                     <Creators />
+                    <h2>With special thanks to...</h2>
+                    <SpecialThanks />
                     <blockquote>
                         &#34;I&#39;m just one part of the team of people who work on making Gaia Gauntlet a reality. We all do
                         this out of passion and love for the community, and none of us are paid, so we really appreciate

@@ -1,0 +1,50 @@
+{
+  "people": [
+    {
+      "name": "Ev0",
+      "image": "/people/Ev0.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Ev0Music"
+        },
+        {
+          "name": "Website",
+          "url": "https://www.ev0media.com/"
+        }
+      ],
+      "quote": "For the creation of the track: 'Gaia Awakens'"
+    },
+    {
+      "name": "Mino",
+      "image": "/people/Mino.webp",
+      "socials": [],
+      "quote": "For their tragically lost giant mushroom build"
+    },
+    {
+      "name": "Taf",
+      "image": "/people/Taf.webp",
+      "socials": [],
+      "quote": "For their help with early testing of the game"
+    },
+    {
+      "name": "Edilan",
+      "image": "/people/Edilan.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/EdilanTV"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@edilan"
+        },
+        {
+          "name": "Website",
+          "url": "https://github.com/Ed1lan"
+        }
+      ],
+      "quote": "For spying from the sidelines and their emotional support!"
+    }
+  ]
+}

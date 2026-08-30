@@ -36,23 +36,7 @@
           "url": "https://twitch.tv/oatman5000"
         }
       ],
-      "tags": ["Server Operations"]
-    },
-    {
-      "name": "Farren",
-      "image": "/people/Farren.webp",
-      "quote": "I Build Stuff",
-      "socials": [
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@FarrensTale"
-        },
-        {
-          "name": "Twitter",
-          "url": "https://x.com/Farrens_Tale"
-        }
-      ],
-      "tags": ["Builder"]
+      "tags": ["Server Operations", "Modeller", "Texturer"]
     },
     {
       "name": "Preston",
@@ -72,7 +56,23 @@
           "url": "https://twitch.tv/hytale_preston"
         }
       ],
-      "tags": ["Builder"]
+      "tags": ["Build Lead"]
+    },
+    {
+      "name": "Farren",
+      "image": "/people/Farren.webp",
+      "quote": "I Build Stuff",
+      "socials": [
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@FarrensTale"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Farrens_Tale"
+        }
+      ],
+      "tags": ["Builder", "Texturer"]
     },
     {
       "name": "Lordimass",
@@ -101,7 +101,7 @@
         }
       ],
       "tags": [
-        "Developer", "Builder", "Modeller"
+        "Dev Lead", "Builder", "Modeller", "Animator"
       ]
     },
     {
@@ -119,6 +119,11 @@
         }
       ],
       "tags": ["Modeller", "Developer"]
+    },
+    {
+      "name": "HeruEdhel",
+      "image": "/people/HeruEdhel.webp",
+      "tags": ["Developer"]
     },
     {
       "name": "MKOutlaw",
@@ -167,33 +172,6 @@
         }
       ],
       "tags": ["Concept Artist", "Modeller"]
-    },
-    {
-      "name": "Mino",
-      "image": "/people/Mino.webp",
-      "quote": "Lemon",
-      "socials": [],
-      "tags": ["Builder"]
-    },
-    {
-      "name": "Edilan",
-      "image": "/people/Edilan.webp",
-      "quote": "AUTOMATION",
-      "socials": [
-        {
-          "name": "Twitter",
-          "url": "https://x.com/EdilanTV"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@edilan"
-        },
-        {
-          "name": "Website",
-          "url": "https://github.com/Ed1lan"
-        }
-      ],
-      "tags": ["Emotional Support"]
     }
   ]
 }

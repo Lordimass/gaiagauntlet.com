@@ -14,6 +14,7 @@ export default function Creators() {
                     width={128} height={16}
                     aria-hidden="true"
                     alt=""
+                    className={"creator-top-deco"}
                 />
                 <div className={"creator-img-container"}>
                     <Image
@@ -51,6 +52,7 @@ export default function Creators() {
                     width={128} height={16}
                     aria-hidden="true"
                     alt=""
+                    className={"creator-bottom-deco"}
                 />
         </div>
 
