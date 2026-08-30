@@ -13,7 +13,22 @@
           "url": "https://www.ev0media.com/"
         }
       ],
-      "quote": "For the creation of the track: 'Gaia Awakens'"
+      "quote": "For the creation of the music track: 'Gaia Awakens'"
+    },
+    {
+      "name": "PseudoElephant",
+      "image": "/people/PseudoElephant.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Pseudo_Elephant"
+        },
+        {
+          "name": "Youtube",
+          "url": "youtube.com/@pseudoelephant"
+        }
+      ],
+      "quote": "For (without us even asking) making us an alternate GG logo"
     },
     {
       "name": "Mino",
@@ -24,7 +39,16 @@
     {
       "name": "Taf",
       "image": "/people/Taf.webp",
-      "socials": [],
+      "socials": [
+        {
+          "name": "Website",
+          "url": "https://www.twitch.tv/tafthepenguin"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@tafthepenguin"
+        }
+      ],
       "quote": "For their help with early testing of the game"
     },
     {
