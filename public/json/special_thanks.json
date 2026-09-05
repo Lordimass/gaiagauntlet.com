@@ -16,6 +16,44 @@
       "quote": "For the creation of the music track: 'Gaia Awakens'"
     },
     {
+      "name": "Slamma",
+      "image": "/people/Slamma.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Slammaaa"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@Slammaa"
+        },
+        {
+          "name": "Bluesky",
+          "url": "https://www.youtube.com/@Slammaa"
+        },
+        {
+          "name": "Website",
+          "url": "https://soundcloud.com/slammaa"
+        }
+      ],
+      "quote": "For the creation of the lobby music"
+    },
+    {
+      "name": "Hytro",
+      "image": "/people/Hytro.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/HytroX2"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/channel/UCUsqc0HoERJ4rlq_BN7ilGQ"
+        }
+      ],
+      "quote": "For the creation of additional music tracks"
+    },
+    {
       "name": "PseudoElephant",
       "image": "/people/PseudoElephant.webp",
       "socials": [
@@ -25,10 +63,16 @@
         },
         {
           "name": "Youtube",
-          "url": "youtube.com/@pseudoelephant"
+          "url": "https://youtube.com/@pseudoelephant"
         }
       ],
       "quote": "For (without us even asking) making us an alternate GG logo"
+    },
+    {
+      "name": "Oatman's Wife",
+      "image": "/people/Oatman.webp",
+      "socials": [],
+      "quote": "For creating the team reveal graphics for our social media."
     },
     {
       "name": "Mino",

@@ -123,7 +123,8 @@
     {
       "name": "HeruEdhel",
       "image": "/people/HeruEdhel.webp",
-      "tags": ["Developer"]
+      "tags": ["Developer"],
+      "quote": "merp"
     },
     {
       "name": "MKOutlaw",
