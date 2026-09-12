@@ -4,7 +4,6 @@
     <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/json/gg_team.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/json/gg_team.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/json/special_thanks.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/json/special_thanks.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,9 @@
       <workItem from="1788093507959" duration="5747000" />
       <workItem from="1788247905826" duration="278000" />
       <workItem from="1788248195613" duration="599000" />
-      <workItem from="1788602657377" duration="1064000" />
+      <workItem from="1788602657377" duration="1670000" />
+      <workItem from="1788764022672" duration="4000" />
+      <workItem from="1789226025626" duration="343000" />
     </task>
     <servers />
   </component>

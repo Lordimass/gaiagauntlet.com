@@ -127,6 +127,22 @@
       "quote": "merp"
     },
     {
+      "name": "Riprod",
+      "image": "/people/Riprod.webp",
+      "tags": ["Developer"],
+      "quote": "🍞",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/ItsRiprod"
+        },
+        {
+          "name": "Website",
+          "url": "https://www.curseforge.com/members/itsriprod/projects"
+        }
+      ]
+    },
+    {
       "name": "MKOutlaw",
       "image": "/people/MKOutlaw.webp",
       "quote": "Must build more Dungeons !",
@@ -134,6 +150,10 @@
         {
           "name": "YouTube",
           "url": "https://www.youtube.com/@m.k.outlaw"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/MKOutlaw87"
         }
       ],
       "tags": ["Builder"]
@@ -145,7 +165,7 @@
       "socials": [
         {
           "name": "YouTube",
-          "url": "https://www.youtube.com/@SyprusHytale"
+          "url": "https://www.youtube.com/@SyprusBuilds"
         },
         {
           "name": "Twitter",
@@ -153,7 +173,7 @@
         },
         {
           "name": "Discord",
-          "url": "https://discord.gg/SN4MWmNpWd"
+          "url": "https://discord.gg/WaA2rHw4DV"
         }
       ],
       "tags": ["Branding"]
