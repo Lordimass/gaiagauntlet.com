@@ -81,21 +81,6 @@
       "quote": "For their tragically lost giant mushroom build"
     },
     {
-      "name": "Taf",
-      "image": "/people/Taf.webp",
-      "socials": [
-        {
-          "name": "Website",
-          "url": "https://www.twitch.tv/tafthepenguin"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@tafthepenguin"
-        }
-      ],
-      "quote": "For their help with early testing of the game"
-    },
-    {
       "name": "Edilan",
       "image": "/people/Edilan.webp",
       "socials": [
@@ -113,6 +98,36 @@
         }
       ],
       "quote": "For spying from the sidelines and their emotional support!"
+    },
+    {
+      "name": "Taf",
+      "image": "/people/Taf.webp",
+      "socials": [
+        {
+          "name": "Website",
+          "url": "https://www.twitch.tv/tafthepenguin"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@tafthepenguin"
+        }
+      ],
+      "quote": "For their help with early testing of the game"
+    },
+    {
+      "name": "RedJagoon",
+      "image": "/people/RedJagoon.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/RedJagoon789"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@RedJagoon"
+        }
+      ],
+      "quote": "For their help with early testing of the game"
     }
   ]
 }
