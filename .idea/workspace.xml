@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/json/gg_team.schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/json/teams.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Bramblekin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Dinosaur.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Feran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Goblin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Klops.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Kweebec.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Outlander.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Saurian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Scarak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Slothian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Trork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Tuluk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Void.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/teamIcons/Werewolf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Teams/Teams.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Teams/Teams.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsonSchemas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsonSchemas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/json/gg_team.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/json/gg_team.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/json/special_thanks.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/json/special_thanks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Creators/Creators.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Creators/Creators.css" afterDir="false" />
-    </list>
+    <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +131,7 @@
       <workItem from="1789226025626" duration="478000" />
       <workItem from="1789393313411" duration="48000" />
       <workItem from="1789574933713" duration="122000" />
-      <workItem from="1790328645505" duration="8516000" />
+      <workItem from="1790328645505" duration="8927000" />
     </task>
     <servers />
   </component>
