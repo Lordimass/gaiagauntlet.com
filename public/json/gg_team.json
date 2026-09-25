@@ -121,12 +121,6 @@
       "tags": ["Modeller", "Developer"]
     },
     {
-      "name": "HeruEdhel",
-      "image": "/people/HeruEdhel.webp",
-      "tags": ["Developer"],
-      "quote": "merp"
-    },
-    {
       "name": "Riprod",
       "image": "/people/Riprod.webp",
       "tags": ["Developer"],
@@ -143,20 +137,20 @@
       ]
     },
     {
-      "name": "MKOutlaw",
-      "image": "/people/MKOutlaw.webp",
-      "quote": "Must build more Dungeons !",
+      "name": "MelodicAlbuild",
+      "image": "/people/MelodicAlbuild.webp",
+      "tags": ["Developer"],
+      "quote": "Just another programmer...",
       "socials": [
         {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@m.k.outlaw"
+          "name": "Twitter",
+          "url": "https://x.com/MelodicAlbuild"
         },
         {
-          "name": "Twitter",
-          "url": "https://x.com/MKOutlaw87"
+          "name": "Website",
+          "url": "https://www.melodicalbuild.com/"
         }
-      ],
-      "tags": ["Builder"]
+      ]
     },
     {
       "name": "Syprus",
@@ -193,6 +187,12 @@
         }
       ],
       "tags": ["Concept Artist", "Modeller"]
+    },
+    {
+      "name": "HeruEdhel",
+      "image": "/people/HeruEdhel.webp",
+      "tags": ["Developer"],
+      "quote": "merp"
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "teams": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Team name"
+          },
+          "image": {
+            "type": "string",
+            "description": "Path relative to `public` of the image representing this team."
+          },
+          "people": {
+            "type": "array",
+            "description": "Members of this team",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": ""
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "image": {
+                  "type": "string",
+                  "description": "Path relative to `public` of the image representing this person."
+                }
+              },
+              "required": [
+                "name"
+              ]
+            },
+            "uniqueItems": true
+          }
+        },
+        "required": [
+          "name",
+          "image"
+        ]
+      },
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "teams"
+  ]
+}

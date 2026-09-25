@@ -1,0 +1,246 @@
+{
+    "teams": [
+        {
+            "name": "Bumbling Bramblekin",
+            "image": "teamIcons/Bramblekin.png",
+            "people": [
+                {
+                    "name": "TheDragonFox",
+                    "url": "https://www.youtube.com/@TheDragonFoxYT"
+                },
+                {
+                    "name": "OhRisk",
+                    "url": "https://www.twitch.tv/ohrisklive"
+                },
+                {
+                    "name": "BrokenMinifridge",
+                    "url": "https://www.youtube.com/@BrokenMiniFridge"
+                }
+            ]
+        },
+        {
+            "name": "Deadly Dinosaurs",
+            "image": "teamIcons/Dinosaur.png",
+            "people": [
+                {
+                    "name": "Taf",
+                    "url": "https://www.youtube.com/@BrokenMiniFridge"
+                },
+                {
+                    "name": "Aemilius",
+                    "image": "playerIcons/aemilius@2x.png",
+                    "url": "https://www.youtube.com/@mr.aemilius"
+                },
+                {
+                    "name": "PacificByte",
+                    "url": "https://www.youtube.com/@pacificbyte1059"
+                }
+            ]
+        },
+        {
+            "name": "Goofy Goblins",
+            "image": "teamIcons/Goblin.png",
+            "people": [
+                {
+                    "name": "Syprus",
+                    "url": "https://www.youtube.com/@SyprusHytale"
+                },
+                {
+                    "name": "Edilan",
+                    "url": "https://www.youtube.com/@edilan"
+                },
+                {
+                    "name": "Oruuke",
+                    "url": "https://x.com/oruuke"
+                }
+            ]
+        },
+        {
+            "name": "Fluffy Ferans",
+            "image": "teamIcons/Feran.png",
+            "people": [
+                {
+                    "name": "Ev0",
+                    "image": "playerIcons/OfficialEv0@2x.png",
+                    "url": "https://www.youtube.com/@OfficialEv0"
+                },
+                {
+                    "name": "Rea",
+                    "url": "https://www.youtube.com/@Hy_Rea"
+                },
+                {
+                    "name": "Riprod",
+                    "url": "https://www.youtube.com/@izRiprod"
+                }
+            ]
+        },
+        {
+            "name": "Keen Kweebecs",
+            "image": "teamIcons/Kweebec.png",
+            "people": [
+                {
+                    "name": "Gindew",
+                    "url": "https://x.com/RedGindew"
+                },
+                {
+                    "name": "Evee",
+                    "image": "playerIcons/evee@2x.png"
+                },
+                {
+                    "name": "KweebecCorner",
+                    "image": "playerIcons/kweebec@2x.png",
+                    "url": "https://www.youtube.com/@kweebec"
+                }
+            ]
+        },
+        {
+            "name": "Kooky Klops",
+            "image": "teamIcons/Klops.png",
+            "people": [
+                {
+                    "name": "Oatman",
+                    "image": "playerIcons/Oatman5000@2x.png",
+                    "url": "https://www.twitch.tv/oatman5000"
+                },
+                {
+                    "name": "XSpree",
+                    "url": "https://www.youtube.com/@XspreeOrbisUnveiled"
+                },
+                {
+                    "name": "August",
+                    "url": "https://www.youtube.com/@AugustOffline"
+                }
+            ]
+        },
+        {
+            "name": "Observant Outlanders",
+            "image": "teamIcons/Outlander.png",
+            "people": [
+                {
+                    "name": "Ikari",
+                    "url": "https://www.youtube.com/@Ikarichi"
+                },
+                {
+                    "name": "Myne",
+                    "url": "https://www.twitch.tv/not_myne"
+                },
+                {
+                    "name": "Gnormal",
+                    "url": "https://www.youtube.com/@gnormalll"
+                }
+            ]
+        },
+        {
+            "name": "Saucy Saurians",
+            "image": "teamIcons/Saurian.png",
+            "people": [
+                {
+                    "name": "Matt",
+                    "url": "https://www.youtube.com/@MattHytale"
+                },
+                {
+                    "name": "Farren",
+                    "url": "https://www.youtube.com/@FarrensTale"
+                },
+                {
+                    "name": "Kerp",
+                    "url": "https://www.youtube.com/@JustKerp"
+                }
+            ]
+        },
+        {
+            "name": "Scary Scaraks",
+            "image": "teamIcons/Scarak.png",
+            "people": [
+                {
+                    "name": "Preston",
+                    "url": "https://www.youtube.com/@OrbisArchitect"
+                },
+                {
+                    "name": "Brugo",
+                    "url": "https://www.youtube.com/@Brugoooo"
+                },
+                {
+                    "name": "HytroX",
+                    "image": "playerIcons/Hytro@2x.png",
+                    "url": "https://www.youtube.com/@Hytro_X"
+                }
+            ]
+        },
+        {
+            "name": "Sleepy Slothians",
+            "image": "teamIcons/Slothian.png",
+            "people": [
+                {
+                    "name": "Chayzur",
+                    "url": "https://www.youtube.com/@Chayzur"
+                },
+                {
+                    "name": "Hawkon",
+                    "url": "https://www.youtube.com/@Hawkon"
+                },
+                {
+                    "name": "MadCow",
+                    "url": "https://www.twitch.tv/madc0wtv"
+                }
+            ]
+        },
+        {
+            "name": "Tricky Trorks",
+            "image": "teamIcons/Trork.png",
+            "people": [
+                {
+                    "name": "Lordimass",
+                    "url": "https://twitch.tv/lordimass",
+                    "image": "playerIcons/Lordimass@2x.png"
+                },
+                {
+                    "name": "ThirtyVirus",
+                    "url": "https://www.youtube.com/@ThirtyVirus/videos"
+                },
+                {
+                    "name": "CanadianFlash",
+                    "url": "https://www.twitch.tv/canadianflashyt"
+                }
+            ]
+        },
+        {
+            "name": "Varyn's Void",
+            "image": "teamIcons/Void.png",
+            "people": [
+                {
+                    "name": "Dinch",
+                    "url": "https://www.youtube.com/@dinchhh"
+                },
+                {
+                    "name": "KaupenJoe",
+                    "url": "https://www.twitch.tv/kaupenjoe"
+                },
+                {
+                    "name": "RedJagoon",
+                    "url": "https://www.youtube.com/@RedJagoon/streams"
+                }
+            ]
+        },
+        {
+            "name": "Wacky Werewolves",
+            "image": "teamIcons/Werewolf.png",
+            "people": [
+                {
+                    "name": "Stormy",
+                    "image": "playerIcons/ST0RMY@2x.png",
+                    "url": "https://www.youtube.com/@StormyHytale"
+                },
+                {
+                    "name": "Slamma",
+                    "url": "https://www.youtube.com/@Slammaa"
+                },
+                {
+                    "name": "Foxy",
+                    "image": "playerIcons/FoxyCCA@2x.png",
+                    "url": "https://x.com/foxy_cca"
+                }
+            ]
+        }
+    ]
+}

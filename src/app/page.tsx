@@ -3,6 +3,7 @@ import styles from "./page.module.css";
 import Creators from "@/components/Creators/Creators";
 import ImageMarquee from "@/components/ImageMarquee/ImageMarquee";
 import SpecialThanks from "@/components/Creators/SpecialThanks/SpecialThanks";
+import Teams from "@/components/Teams/Teams";
 
 export default function Home() {
     return (
@@ -65,6 +66,8 @@ export default function Home() {
             <ImageMarquee images={["/twitterPosts/post1.webp", "/twitterPosts/post3.webp", "/twitterPosts/post2.webp", "/twitterPosts/post4.webp"]} />
             <main className={styles.main}>
                 <div className={styles.intro}>
+                    <h2>Competing Teams</h2>
+                    <Teams/>
                     <h2>The GG Team</h2>
                     <Creators />
                     <h2>With special thanks to...</h2>

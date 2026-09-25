@@ -1,6 +1,22 @@
 {
   "people": [
     {
+      "name": "MKOutlaw",
+      "image": "/people/MKOutlaw.webp",
+      "quote": "Helping to build the 'Lava Japanese' zone for GG:EZ",
+      "socials": [
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@m.k.outlaw"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/MKOutlaw87"
+        }
+      ],
+      "tags": ["Builder"]
+    },
+    {
       "name": "Ev0",
       "image": "/people/Ev0.webp",
       "socials": [
