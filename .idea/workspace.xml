@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="" />
+    <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/json/gg_old_team.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Creators/Creators.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Creators/Creators.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Creators/Creators.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Creators/Creators.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +18,65 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.4036531052807698E-122" />
+      <entry key="MS500" value="5.174341499183203E-25" />
+      <entry key="S2" value="2.608124642887613E-6" />
+      <entry key="S5" value="0.0217102027156266" />
+      <entry key="S10" value="0.5001397980881799" />
+      <entry key="S30" value="4.496786093232503" />
+      <entry key="S60" value="8.176634928280933" />
+      <entry key="M2" value="11.90157785929459" />
+      <entry key="M5" value="19.764712988730707" />
+      <entry key="M10" value="32.79757161134588" />
+      <entry key="M15" value="42.47505671677246" />
+      <entry key="M30" value="57.916820757407045" />
+      <entry key="H1" value="68.92186096838903" />
+      <entry key="H2" value="75.52502000329382" />
+      <entry key="H4" value="79.14627341132814" />
+      <entry key="D1" value="82.34091148988324" />
+      <entry key="W1" value="82.90542419887177" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000917456956828" />
+      <entry key="S5" value="1.024268016372866" />
+      <entry key="S10" value="1.1557836429903814" />
+      <entry key="S30" value="1.5679584453737663" />
+      <entry key="S60" value="2.1147808044928507" />
+      <entry key="M2" value="3.5123106769673975" />
+      <entry key="M5" value="7.503449949809083" />
+      <entry key="M10" value="11.93173987407105" />
+      <entry key="M15" value="14.499295233715168" />
+      <entry key="M30" value="18.037565764671086" />
+      <entry key="H1" value="20.304518448572967" />
+      <entry key="H2" value="21.59329574918493" />
+      <entry key="H4" value="22.28116901700494" />
+      <entry key="D1" value="22.877979158634748" />
+      <entry key="W1" value="22.98251330880124" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.011678509754960454" />
+      <entry key="MS500" value="0.4106553503760329" />
+      <entry key="S2" value="0.80058962345829" />
+      <entry key="S5" value="0.9573845206760805" />
+      <entry key="S10" value="1.5918429318533471" />
+      <entry key="S30" value="6.0042663161866665" />
+      <entry key="S60" value="10.24028634604333" />
+      <entry key="M2" value="15.372096662846001" />
+      <entry key="M5" value="27.23636121938889" />
+      <entry key="M10" value="44.70349510020476" />
+      <entry key="M15" value="56.952715068247755" />
+      <entry key="M30" value="75.94022025112832" />
+      <entry key="H1" value="89.21814528433625" />
+      <entry key="H2" value="97.11385931561442" />
+      <entry key="H4" value="101.42512194307547" />
+      <entry key="D1" value="105.2184904049646" />
+      <entry key="W1" value="105.88787999026013" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
@@ -23,31 +91,34 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sam/Documents/GitHub/gh-gaiagauntlet.com/public/json&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.json.schema&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\sam\\Documents\\GitHub\\gh-gaiagauntlet.com\\node_modules\\typescript\\lib&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/sam/Documents/GitHub/Gaia Gauntlet/gaiagauntlet.com/public/people/Oatman.png&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "last_opened_file_path": "C:/Users/sam/Documents/GitHub/gh-gaiagauntlet.com/public/json",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "settings.json.schema",
+    "ts.external.directory.path": "C:\\Users\\sam\\Documents\\GitHub\\gh-gaiagauntlet.com\\node_modules\\typescript\\lib",
+    "ts.rename.search.for.js.occurrences": "false",
+    "two.files.diff.last.used.file": "C:/Users/sam/Documents/GitHub/Gaia Gauntlet/gaiagauntlet.com/public/people/Oatman.png",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -108,7 +179,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
       </set>
     </attachedChunks>
   </component>
@@ -131,7 +202,10 @@
       <workItem from="1789226025626" duration="478000" />
       <workItem from="1789393313411" duration="48000" />
       <workItem from="1789574933713" duration="122000" />
-      <workItem from="1790328645505" duration="8927000" />
+      <workItem from="1790328645505" duration="9744000" />
+      <workItem from="1790343227350" duration="1280000" />
+      <workItem from="1790580157134" duration="11000" />
+      <workItem from="1793973994096" duration="2405000" />
     </task>
     <servers />
   </component>

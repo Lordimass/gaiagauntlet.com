@@ -2,8 +2,8 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import Creators from "@/components/Creators/Creators";
 import ImageMarquee from "@/components/ImageMarquee/ImageMarquee";
-import SpecialThanks from "@/components/Creators/SpecialThanks/SpecialThanks";
-import Teams from "@/components/Teams/Teams";
+import staff from "../../public/json/gg_team.json"
+import special_thanks from "../../public/json/special_thanks.json"
 
 export default function Home() {
     return (
@@ -66,13 +66,13 @@ export default function Home() {
             <ImageMarquee images={["/twitterPosts/post1.webp", "/twitterPosts/post3.webp", "/twitterPosts/post2.webp", "/twitterPosts/post4.webp"]} />
             <main className={styles.main}>
                 <div className={styles.intro}>
-                    <h2>Competing Teams</h2>
-                    <Teams/>
+                    {/*<h2>Competing Teams</h2>*/}
+                    {/*<Teams/>*/}
                     <h2>The GG Team</h2>
-                    <Creators />
+                    <Creators people={staff.people} textType={"quote"}/>
                     <h2>With special thanks to...</h2>
-                    <SpecialThanks />
-                    <blockquote>
+                    <Creators people={special_thanks.people} theme={"silver"}/>
+                    <blockquote>óó
                         &#34;I&#39;m just one part of the team of people who work on making Gaia Gauntlet a reality. We all do
                         this out of passion and love for the community, and none of us are paid, so we really appreciate
                         your support. Thank you to everyone who contributed to making this project a reality, you're all

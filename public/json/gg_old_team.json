@@ -1,0 +1,10 @@
+{
+  "people": [
+    {
+      "name": "HeruEdhel",
+      "image": "/people/HeruEdhel.webp",
+      "tags": ["Developer"],
+      "quote": "merp"
+    }
+  ]
+}

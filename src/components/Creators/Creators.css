@@ -6,6 +6,16 @@
   justify-content: center;
 }
 
+.creator.gold {
+  border: goldenrod 2px solid;
+  box-shadow: 0 0 10px gold;
+}
+
+.creator.silver {
+  border: white 2px solid;
+  box-shadow: 0 0 10px white;
+}
+
 .creator {
   position: relative;
   display: flex;
@@ -16,8 +26,7 @@
 
   max-width: 300px;
 
-  border: goldenrod 2px solid;
-  box-shadow: 0 0 10px gold;
+
   border-radius: 0.5rem;
   background-color: var(--bs-body-bg);
 
