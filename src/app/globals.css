@@ -75,3 +75,14 @@ blockquote {
     color-scheme: dark;
   }
 }
+
+/* ==================== NAVBAR ====================*/
+.page-top-spacer {
+  height: 62px;
+}
+
+.navbar {
+  padding: 2px 32px 2px 12px;
+  backdrop-filter: blur(3px);
+  background-color: rgba(0, 0, 0, 0.3);
+}

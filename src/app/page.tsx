@@ -69,14 +69,14 @@ export default function Home() {
                 <div className={styles.intro}>
                     {/*<h2>Competing Teams</h2>*/}
                     {/*<Teams/>*/}
-                    <h2>The GG Team</h2>
+                    <h2 id={"team"}>The GG Team</h2>
                     <Creators people={staff.people} textType={"quote"}/>
-                    <h2>With special thanks to...</h2>
+                    <h2 id={"contributors"}>With special thanks to...</h2>
                     <p>
                         We wouldn&#39;t be able to do this without help from the community. Thank you everyone!
                     </p>
                     <Creators people={special_thanks.people} theme={"silver"}/>
-                    <h2>Previous Staff</h2>
+                    <h2 id={"previous-staff"}>Previous Staff</h2>
                     <p>
                         Some people have contributed to Gaia Gauntlet immensely, but are unfortunately not part of our
                         core team any longer. That doesn&#39;t mean we don&#39;t still want to say thank you though!
