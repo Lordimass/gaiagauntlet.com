@@ -1,20 +1,19 @@
 {
   "people": [
     {
-      "name": "MKOutlaw",
-      "image": "/people/MKOutlaw.webp",
-      "quote": "Helping to build the 'Lava Japanese' zone for GG:EZ",
+      "name": "Foxy",
+      "image": "/people/foxy.webp",
+      "quote": "For their concept art for the Elimination Zone bosses",
       "socials": [
         {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@m.k.outlaw"
+          "name": "Twitter",
+          "url": "https://x.com/foxy_cca"
         },
         {
-          "name": "Twitter",
-          "url": "https://x.com/MKOutlaw87"
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@FoxyCCA"
         }
-      ],
-      "tags": ["Builder"]
+      ]
     },
     {
       "name": "Ev0",
@@ -89,12 +88,6 @@
       "image": "/people/Oatman.webp",
       "socials": [],
       "quote": "For creating the team reveal graphics for our social media."
-    },
-    {
-      "name": "Mino",
-      "image": "/people/Mino.webp",
-      "socials": [],
-      "quote": "For their tragically lost giant mushroom build"
     },
     {
       "name": "Edilan",

@@ -5,6 +5,22 @@
       "image": "/people/HeruEdhel.webp",
       "tags": ["Developer"],
       "quote": "merp"
+    },
+    {
+      "name": "MKOutlaw",
+      "image": "/people/MKOutlaw.webp",
+      "socials": [
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/@m.k.outlaw"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/MKOutlaw87"
+        }
+      ],
+      "tags": ["Builder"],
+      "quote": "Must build more Dungeons!"
     }
   ]
 }

@@ -118,7 +118,7 @@
           "url": "https://www.curseforge.com/hytale/mods/pillows-n-plushies"
         }
       ],
-      "tags": ["Modeller", "Developer"]
+      "tags": ["Modeller", "Animator", "Asset Dev"]
     },
     {
       "name": "Riprod",
@@ -153,6 +153,25 @@
       ]
     },
     {
+      "name": "Gindew",
+      "image": "/people/Gindew.webp",
+      "tags": ["Modeller", "Animator", "Asset Dev"],
+      "quote": "Who is this HANDSOME Hytale avatar?",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/RedGindew"
+        }
+      ]
+    },
+    {
+      "name": "Mino",
+      "image": "/people/Mino.webp",
+      "socials": [],
+      "tags": ["Builder"],
+      "quote": "Lemon"
+    },
+    {
       "name": "Syprus",
       "image": "/people/Syprus.webp",
       "quote": "Artist, Builder, Creator, Dreamer.",
@@ -171,28 +190,6 @@
         }
       ],
       "tags": ["Branding"]
-    },
-    {
-      "name": "Foxy",
-      "image": "/people/foxy.webp",
-      "quote": "Trigger Volume mad scientist",
-      "socials": [
-        {
-          "name": "Twitter",
-          "url": "https://x.com/foxy_cca"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com/@FoxyCCA"
-        }
-      ],
-      "tags": ["Concept Artist", "Modeller"]
-    },
-    {
-      "name": "HeruEdhel",
-      "image": "/people/HeruEdhel.webp",
-      "tags": ["Developer"],
-      "quote": "merp"
     }
   ]
 }

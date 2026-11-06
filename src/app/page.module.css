@@ -145,8 +145,9 @@
   gap: 24px;
   width: 100%;
 
-  h2 {
+  h2, p {
     align-self: center;
+    margin: 0;
   }
 }
 

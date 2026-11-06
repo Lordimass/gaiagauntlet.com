@@ -4,6 +4,7 @@ import Creators from "@/components/Creators/Creators";
 import ImageMarquee from "@/components/ImageMarquee/ImageMarquee";
 import staff from "../../public/json/gg_team.json"
 import special_thanks from "../../public/json/special_thanks.json"
+import old_staff from "../../public/json/gg_old_team.json"
 
 export default function Home() {
     return (
@@ -71,14 +72,24 @@ export default function Home() {
                     <h2>The GG Team</h2>
                     <Creators people={staff.people} textType={"quote"}/>
                     <h2>With special thanks to...</h2>
+                    <p>
+                        We wouldn&#39;t be able to do this without help from the community. Thank you everyone!
+                    </p>
                     <Creators people={special_thanks.people} theme={"silver"}/>
-                    <blockquote>óó
+                    <h2>Previous Staff</h2>
+                    <p>
+                        Some people have contributed to Gaia Gauntlet immensely, but are unfortunately not part of our
+                        core team any longer. That doesn&#39;t mean we don&#39;t still want to say thank you though!
+                    </p>
+                    <Creators people={old_staff.people} textType={"quote"}/>
+
+                    <blockquote>
                         &#34;I&#39;m just one part of the team of people who work on making Gaia Gauntlet a reality. We all do
                         this out of passion and love for the community, and none of us are paid, so we really appreciate
-                        your support. Thank you to everyone who contributed to making this project a reality, you're all
-                        amazing!&#34;
+                        your support. Thank you to everyone who contributed to making this project a reality, you&#39;re
+                        all amazing!&#34;
                     </blockquote>
-                    <p>- Lordimass</p>
+                    <p className={"align-self-start"}>- Lordimass</p>
                 </div>
             </main>
         </div>
