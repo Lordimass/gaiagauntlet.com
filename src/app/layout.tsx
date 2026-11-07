@@ -2,7 +2,16 @@ import type {Metadata} from "next";
 import "./globals.css";
 import React from "react";
 import localFont from "next/font/local"
-import {Navbar, NavbarBrand, NavbarToggle, NavbarCollapse, NavLink, NavDropdown, DropdownItem} from "react-bootstrap";
+import {
+    Navbar,
+    NavbarBrand,
+    NavbarToggle,
+    NavbarCollapse,
+    NavLink,
+    NavDropdown,
+    DropdownItem,
+    NavItem
+} from "react-bootstrap";
 import Image from "next/image";
 
 export const metadata: Metadata = {
@@ -25,11 +34,7 @@ const ari_w9500 = localFont({
   ]
 })
 
-export default function RootLayout({
-                                       children,
-                                   }: Readonly<{
-    children: React.ReactNode;
-}>) {
+export default function RootLayout({children}: Readonly<{ children: React.ReactNode}>) {
     return (
         <html lang="en" data-bs-theme="dark">
         <body>
@@ -40,6 +45,7 @@ export default function RootLayout({
             </NavbarBrand>
             <NavbarToggle />
             <NavbarCollapse className="justify-content-end">
+                <NavLink href={"/#thankmas"}>Thankmas</NavLink>
                 <NavDropdown title={"People"}>
                     <DropdownItem href={"/#team"}>Staff</DropdownItem>
                     <DropdownItem href={"/#contributors"}>Contributors</DropdownItem>

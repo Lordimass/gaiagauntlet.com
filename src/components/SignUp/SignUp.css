@@ -1,0 +1,74 @@
+.signup {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    background-color: black;
+    padding: 1rem 2rem;
+    box-shadow: 0 5px 5px #000, 0 -5px 5px #000;
+
+    hr {
+        width: 100%;
+    }
+
+    .split {
+        display: grid;
+        width: 100%;
+        min-height: 20rem;
+        grid-template-columns: 1fr 1fr;
+
+        > div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0.5rem;
+        }
+
+        .right {
+            display: flex;
+            position: relative;
+            min-width: 300px
+        }
+
+        @media screen and (orientation: portrait) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .accordion {
+        width: calc(100% + 2rem);
+        border-radius: 1rem;
+        overflow: hidden;
+
+        .accordion-button {
+            gap: 1rem;
+
+            > div {
+                display: flex;
+                flex-direction: column;
+            }
+        }
+
+        .accordion-body {
+            display: flex;
+            justify-content: center;
+            background-color: #212529;
+            padding: 0;
+        }
+    }
+    img {
+        position: relative;
+        height: auto;
+    }
+
+    >:first-child {
+        top: -30px;
+        rotate: 180deg;
+    }
+
+    >:last-child {
+        bottom: -30px;
+    }
+}

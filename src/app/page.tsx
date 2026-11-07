@@ -5,6 +5,7 @@ import ImageMarquee from "@/components/ImageMarquee/ImageMarquee";
 import staff from "../../public/json/gg_team.json"
 import special_thanks from "../../public/json/special_thanks.json"
 import old_staff from "../../public/json/gg_old_team.json"
+import SignUp from "@/components/SignUp/SignUp";
 
 export default function Home() {
     return (
@@ -65,23 +66,32 @@ export default function Home() {
 
 
             <ImageMarquee images={["/twitterPosts/post1.webp", "/twitterPosts/post3.webp", "/twitterPosts/post2.webp", "/twitterPosts/post4.webp"]} />
+
+            <SignUp/>
+
             <main className={styles.main}>
                 <div className={styles.intro}>
                     {/*<h2>Competing Teams</h2>*/}
                     {/*<Teams/>*/}
+
                     <h2 id={"team"}>The GG Team</h2>
                     <Creators people={staff.people} textType={"quote"}/>
+
+
                     <h2 id={"contributors"}>With special thanks to...</h2>
                     <p>
                         We wouldn&#39;t be able to do this without help from the community. Thank you everyone!
                     </p>
                     <Creators people={special_thanks.people} theme={"silver"}/>
+
+
                     <h2 id={"previous-staff"}>Previous Staff</h2>
                     <p>
                         Some people have contributed to Gaia Gauntlet immensely, but are unfortunately not part of our
                         core team any longer. That doesn&#39;t mean we don&#39;t still want to say thank you though!
                     </p>
                     <Creators people={old_staff.people} textType={"quote"}/>
+
 
                     <blockquote>
                         &#34;I&#39;m just one part of the team of people who work on making Gaia Gauntlet a reality. We all do
