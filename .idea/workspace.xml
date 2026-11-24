@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000024" />
+      <entry key="S5" value="1.0000026153100718" />
+      <entry key="S10" value="1.0028968126005862" />
+      <entry key="S30" value="1.4766115774444213" />
+      <entry key="S60" value="3.4760120814783955" />
+      <entry key="M2" value="7.977132884249475" />
+      <entry key="M5" value="21.133572189236038" />
+      <entry key="M10" value="49.35406793404454" />
+      <entry key="M15" value="76.1565856655004" />
+      <entry key="M30" value="133.73234963759538" />
+      <entry key="H1" value="222.37161093228616" />
+      <entry key="H2" value="365.62197822006664" />
+      <entry key="H4" value="521.6699157626766" />
+      <entry key="D1" value="744.9029391373978" />
+      <entry key="W1" value="796.0271546666074" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.211210198837513E-44" />
+      <entry key="MS500" value="1.8574879529924484E-9" />
+      <entry key="S2" value="0.006564951189327552" />
+      <entry key="S5" value="0.13393682069174806" />
+      <entry key="S10" value="0.3680354954740287" />
+      <entry key="S30" value="1.0143160665735413" />
+      <entry key="S60" value="2.181598263768874" />
+      <entry key="M2" value="4.075880249014622" />
+      <entry key="M5" value="7.083905284665784" />
+      <entry key="M10" value="10.685437788849788" />
+      <entry key="M15" value="14.018634503904188" />
+      <entry key="M30" value="22.382130280760965" />
+      <entry key="H1" value="38.95562299866804" />
+      <entry key="H2" value="68.3955479833794" />
+      <entry key="H4" value="100.93838648837009" />
+      <entry key="D1" value="147.4904452857364" />
+      <entry key="W1" value="158.13295523810453" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.3441347375530815E-41" />
+      <entry key="MS500" value="8.048604573349722E-9" />
+      <entry key="S2" value="0.014180017688821834" />
+      <entry key="S5" value="0.27290917627831207" />
+      <entry key="S10" value="0.7418732593573785" />
+      <entry key="S30" value="2.18608344952497" />
+      <entry key="S60" value="5.44822744855992" />
+      <entry key="M2" value="11.902568107877093" />
+      <entry key="M5" value="28.12533808989872" />
+      <entry key="M10" value="59.969463271627475" />
+      <entry key="M15" value="90.11282183585912" />
+      <entry key="M30" value="156.06427696701897" />
+      <entry key="H1" value="261.2855135579172" />
+      <entry key="H2" value="433.9831341159964" />
+      <entry key="H4" value="622.583929061127" />
+      <entry key="D1" value="892.38765497552" />
+      <entry key="W1" value="954.1592376646109" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GLjbpUqEbEOyzcSinLIuYuRI3R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/signup-form&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sam/Documents/GitHub/gh-gaiagauntlet.com/public/json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.json.schema&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\sam\\Documents\\GitHub\\gh-gaiagauntlet.com\\node_modules\\typescript\\lib&quot;,
+    &quot;ts.rename.search.for.js.occurrences&quot;: &quot;false&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/sam/Documents/GitHub/Gaia Gauntlet/gaiagauntlet.com/public/people/Oatman.png&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sam\Documents\GitHub\gh-gaiagauntlet.com\public\json" />
+      <recent name="C:\Users\sam\Documents\GitHub\gh-gaiagauntlet.com\public" />
+      <recent name="C:\Users\sam\Documents\GitHub\Gaia Gauntlet\gaiagauntlet.com\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sam\Documents\GitHub\gh-gaiagauntlet.com\public" />
+      <recent name="C:\Users\sam\Documents\GitHub\gh-gaiagauntlet.com\src\components\Creators" />
+      <recent name="C:\Users\sam\Documents\GitHub\Gaia Gauntlet\gaiagauntlet.com\public\uiElements" />
+      <recent name="C:\Users\sam\Documents\GitHub\Gaia Gauntlet\gaiagauntlet.com\public" />
+      <recent name="C:\Users\sam\Documents\GitHub\Gaia Gauntlet\gaiagauntlet.com\public\people" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15843926-f58a-4910-8690-92726c2f5e57" name="Changes" comment="" />
+      <created>1783757818144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783757818144</updated>
+      <workItem from="1783757819223" duration="106000" />
+      <workItem from="1783757950330" duration="20768000" />
+      <workItem from="1783838603805" duration="19492000" />
+      <workItem from="1783926484805" duration="113000" />
+      <workItem from="1788093507959" duration="5747000" />
+      <workItem from="1788247905826" duration="278000" />
+      <workItem from="1788248195613" duration="599000" />
+      <workItem from="1788602657377" duration="1670000" />
+      <workItem from="1788764022672" duration="4000" />
+      <workItem from="1789226025626" duration="478000" />
+      <workItem from="1789393313411" duration="48000" />
+      <workItem from="1789574933713" duration="122000" />
+      <workItem from="1790328645505" duration="9744000" />
+      <workItem from="1790343227350" duration="1280000" />
+      <workItem from="1790580157134" duration="11000" />
+      <workItem from="1793973994096" duration="11638000" />
+      <workItem from="1794049982624" duration="3425000" />
+      <workItem from="1794222084382" duration="124000" />
+      <workItem from="1794222228362" duration="601000" />
+      <workItem from="1794310760881" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

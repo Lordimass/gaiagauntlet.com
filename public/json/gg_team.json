@@ -165,6 +165,22 @@
       ]
     },
     {
+      "name": "PseudoAle",
+      "image": "/people/PseudoElephant.webp",
+      "socials": [
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Pseudo_Elephant"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://youtube.com/@pseudoelephant"
+        }
+      ],
+      "tags": ["Developer", "Builder", "Graphic Designer"],
+      "quote": "Making stuff is fun :D"
+    },
+    {
       "name": "Mino",
       "image": "/people/Mino.webp",
       "socials": [],
